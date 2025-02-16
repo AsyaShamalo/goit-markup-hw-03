@@ -284,6 +284,7 @@ font-style: normal;
         letter-spacing: 0.02em;
         text-align: center;
         color: #2e2f42;
+        margin-bottom: 8px
 }
 
 .team-item-text {
@@ -326,6 +327,10 @@ font-style: normal;
 .portfolio-item-img {
     margin-bottom: 32px;
     
+}
+.portfolio-item-name{
+    padding: 32px 16px;
+    border: 1px solid #e7e9fc;
 }
 
 .portfolio-item-title {
