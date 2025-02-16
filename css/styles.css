@@ -274,7 +274,6 @@ font-style: normal;
 }
 
 .team-item-img {
-    display: flex;
 }
 
 .team-item-name {
@@ -329,7 +328,6 @@ font-style: normal;
 }
 
 .portfolio-item-img {
-    display: block;
 }
 
 .portfolio-item-name{
