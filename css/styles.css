@@ -27,7 +27,7 @@ img {
     display: block;
 }
 
-.conteiner {
+.container {
     width: 1158px;
     padding-left: 15px;
     padding-right: 15px;
@@ -44,7 +44,7 @@ padding-bottom: 120px;
  display: flex;
     border-bottom: 1px solid #e7e9fc;
 }
-.header-conteiner {
+.header-container {
     display: flex;
     justify-content: space-between;
 }
