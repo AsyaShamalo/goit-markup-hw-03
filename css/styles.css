@@ -274,6 +274,10 @@ font-style: normal;
     margin-bottom: 32px;
 }
 
+.team-item-name {
+    padding: 32px 0;
+}
+
 .team-item-title {
         font-weight: 500;
         font-size: 20px;
@@ -281,7 +285,6 @@ font-style: normal;
         letter-spacing: 0.02em;
         text-align: center;
         color: #2e2f42;
-        margin-bottom: 8px;
 }
 
 .team-item-text {
@@ -290,7 +293,6 @@ font-style: normal;
     line-height: 1.5;
     letter-spacing: 0.02em;
     text-align: center;
-    margin-bottom: 32px;
 }
 /* #endregion team */
 
