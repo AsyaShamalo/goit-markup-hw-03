@@ -255,7 +255,7 @@ font-style: normal;
 
 .team-list-item {
     background-color: #FFFFFF;
-    width: calc ((100% - 24px * 3) / 4);
+    width: calc((100% - 24px * 3) / 4);
     border-radius: 0 0 4px 4px;
     border-bottom: 1px solid #e7e9fc;
     border-left: 1px solid #e7e9fc;
@@ -311,7 +311,7 @@ font-style: normal;
 }
 
 .portfolio-list-item {
-    width: calc ((100% - 24px * 3) / 4);
+    width: calc((100% - 24px * 3) / 4);
     border-radius: 0 0 4px 4px;
     
 
